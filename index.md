@@ -5,18 +5,17 @@ You never know your luck!
 ### Daily
 
 
-```markdown
-Syntax highlighted code block
+
 
 # Trump
 
 
-**Wenn you are a star, they let you do itß**  _Trump_ 
+**Wenn you are a star, they let you do it**    _Trump_ 
 
 
-```
+
 
 
 ### Contact
 
-Having questions? [contact support](https://github.com/contact)
+Having questions? [contact](upyougo@gmail.com)

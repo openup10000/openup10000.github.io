@@ -4,12 +4,6 @@ You never know your luck!
 
 ### Daily
 
-
-
-
-# Trump
-
-
 **Wenn you are a star, they let you do it**    _Trump_ 
 
 

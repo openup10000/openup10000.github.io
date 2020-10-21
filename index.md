@@ -12,4 +12,4 @@ You never know your luck!
 
 ### Contact
 
-Having questions? [contact](upyougo@gmail.com)
+Having questions? [contact me](mailto:upyougo@gmail.com)
